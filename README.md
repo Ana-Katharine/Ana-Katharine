@@ -16,8 +16,8 @@
 </div>
 
 ##
-![ezgif com-gif-maker heigth="350"](https://github.com/Ana-Katharine/Ana-Katharine/assets/137085838/1f64ae42-924d-48cf-9c60-7da8c708930f)
-  
+![ezgif com-gif-maker](https://github.com/Ana-Katharine/Ana-Katharine/assets/137085838/1f64ae42-924d-48cf-9c60-7da8c708930f)
+ 
 <div>
   <a href="https://www.linkedin.com/in/ana-karina-silva-leit%C3%A3o-40497b212/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.instagram.com/sad_monster.nj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
