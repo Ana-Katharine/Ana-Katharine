@@ -18,8 +18,6 @@
 <img align="right" alt="Karina" height="200" style="border-radius:60"src="https://github.com/Ana-Katharine/Ana-Katharine/assets/137085838/1f64ae42-924d-48cf-9c60-7da8c708930f"> 
 </div>
 
-
-
  ##
 <div>
   <a href="https://www.linkedin.com/in/ana-karina-silva-leit%C3%A3o-40497b212/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
